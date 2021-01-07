@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993380653888",
+    "project_id": "phonestore-be87b",
+    "storage_bucket": "phonestore-be87b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993380653888:android:69e04a36980384146438a5",
+        "android_client_info": {
+          "package_name": "com.deeter.hytes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993380653888-samb5kvop9f5iomvnjl130sooms74vji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6kySjZ9Yd2eYDfVMnAcFuIY_RknR2vsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993380653888-samb5kvop9f5iomvnjl130sooms74vji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
